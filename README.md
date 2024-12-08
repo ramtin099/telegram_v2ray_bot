@@ -81,7 +81,3 @@ To run the bot, simply execute the main script (`Telegram.py`), and the bot will
 ## Additional Notes
 - The project requires a Telegram bot setup with the Telegram API and your specific token.
 - QR code generation functionality uses `qrcode` and can be utilized for various project needs.
-
----
-
-Let me know if you'd like any additional changes or further details added to the README!
